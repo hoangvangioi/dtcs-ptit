@@ -10,8 +10,8 @@ const Result = ({ showResult, quizs, marks, startOver }) => {
                             <h1 className='mb-2 fw-bold'>{marks > (quizs.length / 2) ? 'Awesome!' : 'Oops!'}</h1>
                             <h3 className='mb-3 fw-bold'>Your score is {marks} out of {quizs.length}</h3>
                             <button onClick={startOver} className='btn py-2 px-4 btn-light fw-bold d-inline'>Start Over</button>
-                            <p className="mt-4 fs-6 fst-italic font-monospace text-danger">Nếu các cậu rảnh thì có thể vô follow Facebook tớ nha.</p>
-                            <a className="font-monospace" href='https://www.facebook.com/hoanggioi.2803' title='Facebook'>Link Facebook tại đây!</a>
+                            <p className="mt-4 fs-6 fst-italic font-monospace">Nếu các cậu rảnh thì có thể vô follow Facebook tớ nha.</p>
+                            <a className="font-monospace link-warning link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" href='https://www.facebook.com/hoanggioi.2803' title='Facebook'>Link Facebook ở đây nè!</a>
                         </div>
                     </div>
                 </div>
