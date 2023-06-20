@@ -11,7 +11,7 @@ const Quiz = ({ showQuiz, question, quizs, checkAnswer, correctAnswer, selectedA
                                 <h5 className='mb-2 fs-normal lh-base text-warning'>{question?.question}</h5>
                                 <h5 style={{ color: '#60d600', width: '160px', textAlign: 'right' }}>{quizs.indexOf(question) + 1} / {quizs?.length}</h5>
                             </div>
-                            {question?.image ? <img className='border border-info rounded-4 p-2' src={question?.image} alt={question?.question} /> : null}
+                            {question?.image ? <img className='w-75 img-fluid mx-auto d-block border border-info rounded-4 p-1' src={question?.image} alt={question?.question} /> : null}
                             <div>
                                 {question?.options?.map((item, index) => <button
                                     key={index}
