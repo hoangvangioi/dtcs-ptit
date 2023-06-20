@@ -229,7 +229,7 @@
             "Tam giác",
             "Không cần xét cách nối"
         ],
-        "answer": "Tam giác"
+        "answer": "Sao"
     },
     {
         "id": "22",
@@ -239,7 +239,7 @@
             "Điện cảm tải đủ lớn để dòng điện tải liên tục",
             "Cả hai nguyên nhân trên"
         ],
-        "answer": "Điện cảm của biến áp đủ lớn"
+        "answer": "Cả hai nguyên nhân trên"
     },
     {
         "id": "23",
@@ -250,7 +250,7 @@
             "Đơn giản dễ chế tạo",
             "Dây nhỏ dễ quấn"
         ],
-        "answer": ""
+        "answer": "Khử hài bậc ba không trả lên lưới"
     },
     {
         "id": "24",
@@ -295,7 +295,7 @@
             "Bằng băm áp một chiều",
             "Cả 3 bộ nguồn trên"
         ],
-        "answer": ""
+        "answer": "Bằng băm áp một chiều"
     },
     {
         "id": "28",
@@ -395,7 +395,7 @@
             "Sóng vuông",
             "Sóng bậc thang"
         ],
-        "answer": "Sóng tam giác"
+        "answer": "Sóng vuông"
     },
     {
         "id": "37",
@@ -412,16 +412,16 @@
         "id": "38",
         "question": "Tiristor có thông số Un = 350V, Idm = 100A làm việc với điều kiện có cánh toả nhiệt không quạt đối lưu không khí. Thông số tải nào dưới đây phù hợp nhất với tiristor này:",
         "options": [
-            "Ulv = 350V, Ilv = 10A",
-            "Ulv = 150V, Ilv = 30A",
-            "Ulv = 150V, Ilv = 50A",
-            "Ulv = 300V, Ilv = 20A"
+            "U1v = 350V, I1v = 10A",
+            "U1v = 150V, I1v = 30A",
+            "U1v = 150V, I1v = 50A",
+            "U1v = 300V, I1v = 20A"
         ],
-        "answer": "Ulv = 300V, Ilv = 20A"
+        "answer": "U1v = 150V, I1v = 30A"
     },
     {
         "id": "39",
-        "question": "Tải có thông số làm việc của tiristor Ulv = 350V, Ilv = 100A, điều kiện làm việc có cánh toà nhiệt có quạt làm mát. Tiristor nào duới đây được chọn phù hợp cho tài này:",
+        "question": "Tải có thông số làm việc của tiristor U1v = 350V, I1v = 100A, điều kiện làm việc có cánh toà nhiệt có quạt làm mát. Tiristor nào duới đây được chọn phù hợp cho tài này:",
         "options": [
             "Un = 550V, Idm = 100A",
             "Un = 1000V, Idm = 200A",
@@ -461,7 +461,7 @@
             "Xung điện áp từ lưới",
             "Ngắn mạch tải"
         ],
-        "answer": "Xung điện áp từ lưới"
+        "answer": "Dòng điện làm việc lớn hơn dòng điện của van theo điều kiện làm mát"
     },
     {
         "id": "43",
@@ -483,7 +483,7 @@
             "Hai cổng KĐTT",
             "Một cổng không đảo KĐTT"
         ],
-        "answer": "Một cổng đảo KĐTT"
+        "answer": "Hai cổng KĐTT"
     },
     {
         "id": "45",
@@ -494,7 +494,7 @@
             "Cần thay đổi thêm ở tầng tạo xung",
             "Cần thay đổi ở khâu đồng pha"
         ],
-        "answer": "Không được"
+        "answer": "Được không cần thay đổi gì"
     },
     {
         "id": "46",
@@ -529,7 +529,7 @@
             "Điều áp xoay chiều ba pha bằng tiristor",
             "Biến tần trực tiếp nguồn cấp ba pha"
         ],
-        "answer": "Chỉnh lưu cầu ba pha"
+        "answer": "Điều áp xoay chiều ba pha bằng tiristor"
     },
     {
         "id": "49",
@@ -541,7 +541,7 @@
             "Điều áp xoay chiều ba pha bằng tiristor",
             "Chỉnh lưu tia sáu pha"
         ],
-        "answer": "Chỉnh lưu cầu ba pha"
+        "answer": "Chỉnh lưu tia ba pha"
     },
     {
         "id": "50",
@@ -553,7 +553,7 @@
             "Điều áp xoay chiều một pha",
             "Không phải các sơ đồ trên"
         ],
-        "answer": "Không phải các sơ đồ trên"
+        "answer": "Băm áp một chiều"
     },
     {
         "id": "51",
@@ -565,7 +565,7 @@
             "Chỉnh lưu tia sáu pha",
             "Biến tần trực tiếp với nguồn cấp ba pha"
         ],
-        "answer": "Chỉnh lưu cầu ba pha"
+        "answer": ""
     },
     {
         "id": "52",
@@ -577,7 +577,7 @@
             "Chỉnh lưu tia ba pha có góc mở ɑ = 60° tải R-L",
             "Chỉnh lưu tia ba pha có góc mở ɑ = 30° tải R-L"
         ],
-        "answer": ""
+        "answer": "Chỉnh lưu tia ba pha có góc mở ɑ = 60° tải R-L"
     },
     {
         "id": "53",
@@ -601,7 +601,7 @@
             "Chỉnh lưu tia ba pha có góc mở ɑ = 60° tải R-L",
             "Chỉnh lưu tia ba pha có góc mở ɑ = 30° tải R"
         ],
-        "answer": "Chỉnh lưu cầu ba pha ĐKKĐX có góc mở ɑ = 60° tải R-L"
+        "answer": "Chỉnh lưu tia ba pha có góc mở ɑ = 30° tải R"
     },
     {
         "id": "55",
@@ -613,7 +613,7 @@
             "Chỉnh lưu tia ba pha có góc mở ɑ = 60° tải R",
             "Chỉnh lưu tia ba pha có diode xả năng lượng có góc mở ɑ = 60° tải R-L"
         ],
-        "answer": "Chỉnh lưu cầu một pha ĐKĐX có góc mở ɑ = 60° tải R-L"
+        "answer": "Chỉnh lưu tia ba pha có diode xả năng lượng có góc mở ɑ = 60° tải R-L"
     },
     {
         "id": "56",
@@ -625,7 +625,7 @@
             "Chỉnh lưu tia ba pha tải R",
             "Chỉnh lưu cầu một pha ĐKKĐX tải"
         ],
-        "answer": "Chỉnh lưu cầu một pha ĐKĐX tải R-L"
+        "answer": "Chỉnh lưu cầu một pha ĐKKĐX tải"
     },
     {
         "id": "57",
@@ -638,7 +638,7 @@
             "Chỉnh lưu cầu một pha ĐKKĐX tải R",
             "Tất cả các bộ nguồn trên đều đúng"
         ],
-        "answer": "Chỉnh lưu cầu một pha ĐKKĐX tải R-L"
+        "answer": "Chỉnh lưu cầu một pha ĐKĐX tải R"
     },
     {
         "id": "58",
@@ -674,6 +674,6 @@
             "Triac",
             "Tranzitor lưỡng cực"
         ],
-        "answer": "Tiristor"
+        "answer": "Diode"
     }
 ]
