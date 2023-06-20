@@ -510,6 +510,7 @@
     {
         "id": "47",
         "question": "Hãy đọc đúng tên sơ đồ trong các tên gọi sau:",
+        "image": "./cau47.jpg",
         "options": [
             "Chỉnh lưu cầu một pha điều khiển đối xứng",
             "Chỉnh lưu cả chu kỳ với biến áp có trung tính",
@@ -521,6 +522,7 @@
     {
         "id": "48",
         "question": "Hãy đọc đúng tên sơ đồ trong các tên gọi sau:",
+        "image": "./cau48.jpg",
         "options": [
             "Chỉnh lưu cầu ba pha",
             "Chỉnh lưu tia ba pha",
@@ -532,6 +534,7 @@
     {
         "id": "49",
         "question": "Hãy đọc đúng tên sơ đồ trong các tên gọi sau:",
+        "image": "./cau49.jpg",
         "options": [
             "Chỉnh lưu cầu ba pha",
             "Chỉnh lưu tia ba pha",
@@ -543,6 +546,7 @@
     {
         "id": "50",
         "question": "Hãy đọc đúng tên sơ đồ trong các tên gọi sau:",
+        "image": "./cau50.jpg",
         "options": [
             "Chỉnh lưu một nửa chu kì",
             "Băm áp một chiều",
@@ -554,6 +558,7 @@
     {
         "id": "51",
         "question": "Hãy đọc đúng tên sơ đồ trong các tên gọi sau:",
+        "image": "./cau51.jpg",
         "options": [
             "Chỉnh lưu cầu ba pha",
             "Điều áp xoay chiều ba pha bằng tiristor",
@@ -565,7 +570,7 @@
     {
         "id": "52",
         "question": "Trên màn hình dao động kí hiện đường cong điện áp và dòng điện như hình vẽ. Bộ nguồn nào sau đây cho các đường cong này:",
-        "image": "./cau52.png",
+        "image": "./cau52.jpg",
         "options": [
             "Chỉnh lưu cầu ba pha ĐKĐX có góc mở ɑ = 60° tải R-L",
             "Chỉnh lưu cầu ba pha ĐKĐX có góc mở ɑ = 60° tải R",
@@ -577,7 +582,7 @@
     {
         "id": "53",
         "question": "Trên màn hình dao động kí hiện đường cong điện áp và dòng điện như hình vẽ. Bộ nguồn nào sau đây cho các đường cong này:",
-        "image": "./cau53.png",
+        "image": "./cau53.jpg",
         "options": [
             "Chỉnh lưu cầu ba pha ĐKĐX có góc mở ɑ = 60° tải R-L",
             "Chỉnh lưu cầu ba pha ĐKKĐX có góc mở ɑ = 60° tải R",
@@ -589,7 +594,7 @@
     {
         "id": "54",
         "question": "Trên màn hình dao động kí hiện đường cong điện áp và dòng điện như hình vẽ. Bộ nguồn nào sau đây cho các đường cong này:",
-        "image": "./cau54.png",
+        "image": "./cau54.jpg",
         "options": [
             "Chỉnh lưu cầu một pha ĐKĐX có góc mở ɑ = 60° tải R-L",
             "Chỉnh lưu cầu ba pha ĐKKĐX có góc mở ɑ = 60° tải R-L",
@@ -601,7 +606,7 @@
     {
         "id": "55",
         "question": "Trên màn hình dao động kí hiện đường cong điện áp và dòng điện như hình vẽ. Bộ nguồn nào sau đây cho các đường cong này:",
-        "image": "./cau55.png",
+        "image": "./cau55.jpg",
         "options": [
             "Chỉnh lưu cầu một pha ĐKĐX có góc mở ɑ = 60° tải R-L",
             "Chỉnh lưu cả chu kì với BATT có góc mở ɑ = 60° tải R-L",
@@ -613,7 +618,7 @@
     {
         "id": "56",
         "question": "Trên màn hình dao động kí hiện đường cong điện áp như hình vẽ. Bộ nguồn nào sau đây cho đường cong này:",
-        "image": "./cau56.png",
+        "image": "./cau56.jpg",
         "options": [
             "Chỉnh lưu cầu một pha ĐKĐX tải R-L",
             "Chỉnh lưu cả chu kì với BATT tải R-L",
@@ -625,7 +630,7 @@
     {
         "id": "57",
         "question": "Trên màn hình dao động kí hiện đường cong điện áp như hình vẽ. Bộ nguồn nào sau đây cho đường cong này:",
-        "image": "./cau57.png",
+        "image": "./cau57.jpg",
         "options": [
             "Chỉnh lưu cầu một pha ĐKĐX tải R",
             "Chỉnh lưu cả chu kì với BATT tải R",
@@ -638,7 +643,7 @@
     {
         "id": "58",
         "question": "Trên màn hình dao động kí hiện đường cong điện áp và dòng điện như hình vẽ. Bộ nguồn nào sau đây cho các đường cong này:",
-        "image": "./cau58.png",
+        "image": "./cau58.jpg",
         "options": [
             "Chỉnh lưu cầu một pha ĐKĐX",
             "Băm áp một chiều tải R-L",
@@ -650,7 +655,7 @@
     {
         "id": "59",
         "question": "Trên màn hình dao động kí hiện đường cong điện áp và dòng điện như hình vẽ. Bộ nguồn nào sau đây cho các đường cong này:",
-        "image": "./cau59.png",
+        "image": "./cau59.jpg",
         "options": [
             "Chỉnh lưu cầu một pha ĐKĐX",
             "Băm áp một chiều tải R-L",
@@ -662,7 +667,7 @@
     {
         "id": "60",
         "question": "Đặc tính Vôn - Ampe ở hình vẽ bên là của linh kiện bán dẫn nào?",
-        "image": "./cau60.png",
+        "image": "./cau60.jpg",
         "options": [
             "Diode",
             "Tiristor",
