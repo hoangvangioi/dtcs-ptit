@@ -284,7 +284,7 @@
             "Băm xung điện trở phần ứng",
             "Điều chỉnh liên tục điện áp phần ứng bằng tranzitor"
         ],
-        "answer": "Băm xung điện trở phần ứng"
+        "answer": "Băm áp một chiều điều khiển điện áp phần ứng"
     },
     {
         "id": "27",
@@ -373,7 +373,7 @@
             "Biến tần trực tiếp một pha",
             "Bộ điều áp xoay chiều một pha"
         ],
-        "answer": "Biến tần trực tiếp một pha"
+        "answer": "Biến tần công nghiệp với đầu vào một pha đầu ra một pha"
     },
     {
         "id": "35",
@@ -384,7 +384,7 @@
             "Biến tần công nghiệp đầu vào ba pha đầu ra một pha",
             "Điều áp xoay chiều một pha"
         ],
-        "answer": "Biến tần công nghiệp đầu vào ba pha đầu ra một pha"
+        "answer": "Biến tần công nghiệp dầu vào một pha đầu ra một pha"
     },
     {
         "id": "36",
