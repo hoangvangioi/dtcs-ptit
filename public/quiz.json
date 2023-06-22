@@ -517,7 +517,7 @@
             "Điều áp xoay chiều một pha",
             "Không phải các sơ đồ trên"
         ],
-        "answer": "Chỉnh lưu cầu một pha điều khiển đối xứng"
+        "answer": "Chỉnh lưu cả chu kỳ với biến áp có trung tính"
     },
     {
         "id": "48",
